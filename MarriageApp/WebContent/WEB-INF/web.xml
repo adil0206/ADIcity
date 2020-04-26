@@ -20,6 +20,7 @@
    
    <welcome-file-list>
       <welcome-file>input.html</welcome-file>
+      <welcome-file>footer.html</welcome-file>
    </welcome-file-list>
 
 </web-app>
